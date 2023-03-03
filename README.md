@@ -3,16 +3,13 @@
 </p>
 
 <h1>Microsoft Azure Subscription Tutorial</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we will be signing up for a free 30 day ($200 credit) subscription to Microsoft Azure. Azure is a cloud computing platform with over 200+ set of services offered by Microsoft. It provides companies and individuals with a range of cloud based solutions such as virtual machines, storage, data bases, networking, and analytics. Users can run their apps, store their data, and host their websites within the platform. It also includes tools for developers to build, test, and deploy apps across a variety of programming languages and frameworks.<br />
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Requirements</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Computer with Internet Connection
+- Credit Card (Required for $200 free Azure credits for 30 days, then it's a pay as you go subscription. You only will get charged by what you use)
 
 <h2>Operating Systems Used </h2>
 
