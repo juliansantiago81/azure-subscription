@@ -38,7 +38,7 @@ This is a mental preview of the structure of what we will be creating once every
 </p>
 <p>  
 
-- Step 2
+- Resource Group > Create > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Region: Choose yours > Next > Tag: Not necessary > Next > Create
   
 <p>
 <img src="g"/>
@@ -78,7 +78,7 @@ This is a mental preview of the structure of what we will be creating once every
   
   
   
-- Step 3
+- Storage Accounts > Create Storage Account > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Storage Lab Name: Unique Name ie (JulianCourseCareersLab01) > Region > Redundancy: GRS (Resarch if needed) > Review + Create > Create > Got to Resource > Verify
 - Step 4
 
 <p>
