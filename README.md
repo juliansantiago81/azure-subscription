@@ -38,7 +38,7 @@ This is a mental preview of the structure of what we will be creating once every
 </p>
 <p>  
 
-- Resource Group > Create > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Region: Choose yours > Next > Tag: Not necessary > Next > Create
+- Next we will be creating a **Resource Group**. From the **Home** screen you will want to either do a search, look next to **Azure Services**, or under **Navigate**, and click **Resource Groups**. Click **Create** > For **Subscription**, just leave it alone > Will name our **Resource Group RG-Lab-01** > For **Region**, you can choose the one that's closer to you > Next > **Tag** is not necessary > Next > Create
   
 <p>
 <img src="g"/>
@@ -78,7 +78,7 @@ This is a mental preview of the structure of what we will be creating once every
   
   
   
-- Storage Accounts > Create Storage Account > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Storage Lab Name: Unique Name ie (JulianCourseCareersLab01) > Region > Redundancy: GRS (Resarch if needed) > Review + Create > Create > Got to Resource > Verify
+- Next we will be creating a storage accounts. > Create Storage Account > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Storage Lab Name: Unique Name ie (JulianCourseCareersLab01) > Region > Redundancy: GRS (Resarch if needed) > Review + Create > Create > Got to Resource > Verify
 - Step 4
 
 <p>
