@@ -20,7 +20,7 @@ In this tutorial, we will be signing up for a free 30 day ($200 credit) subscrip
 This is a mental preview of the structure of what we will be creating once everything has been set up. When we first set up our free account, the platform will create what is called a "Tenant" which is essentially a representation of your organization. Once that is created, we will create a subscription. You can create multiple ones if you like. For instance, if you have different departments with their own budget, you can create a subscripton to segregate costs but in this tutorial we will be creating one. Inside of the subscription, you can have one or more resource groups which act like folders to hold resources that you create such as virtual machines, databases, and storage accounts. Inside our resource group, we will be creating an Azure Storage Account. Think of it as a Google Drive or a Dropbox with more capabilities.
 </p>
 <p>
-<img src="https://i.imgur.com/tYpKbcl.png">
+<img src="https://i.imgur.com/tYpKbcl.png"> 
 </p
 <p>
 
@@ -38,46 +38,41 @@ This is a mental preview of the structure of what we will be creating once every
 </p>
 <p>  
 
-- Next we will be creating a **Resource Group**. From the **Home** screen you will want to either do a search, look next to **Azure Services**, or under **Navigate**, and click **Resource Groups**. Click **Create** > For **Subscription**, just leave it alone > Will name our **Resource Group RG-Lab-01** > For **Region**, you can choose the one that's closer to you > Next > **Tag** is not necessary > Next > Create
+- Next we will be creating a **Resource Group**. From the **Home** screen you will want to either do a :mag:, look next to **Azure Services**, or under **Navigate**, and click **Resource Groups**.
+
+<p>
+<img src="https://i.imgur.com/SZh3dZH.png"/> 
+</p>
+<p>
+
+Click **+ Create**  
+
+<p>
+<img src="https://i.imgur.com/B2Ncz9S.png"/>
+</p>
+<p> 
+
+For **Subscription**, just leave it alone since we are just creating one in this tuturial. **Resource group** will be named *RG-Lab-01* in this exmaple, but you can name it whatever you like. For **Region**, you can choose the one that you're currently living in. Click **Next**. We don't have to specify **Tags** if you don't want to. Used for organizations to keep track of certian resources. Click **Review + create**
   
 <p>
-<img src="g"/>
+<img src="https://i.imgur.com/F5xLtEq.png"/>
 </p>
 <p>
 
-<p>
-<img src=""/>
-</p>
-<p>    
+Verify **Validation passed** and Click **Create**
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/MTollLG.png"/>
 </p>
 <p>
 
+Congrats! You have just created a Resourse Group.
+
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/rgUhksZ.png"/>
 </p>
 <p>  
 
-<p>
-<img src=""/>
-</p>
-<p>
-
-<p>
-<img src=""/>
-</p>
-<p>  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 - Next we will be creating a storage accounts. > Create Storage Account > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Storage Lab Name: Unique Name ie (JulianCourseCareersLab01) > Region > Redundancy: GRS (Resarch if needed) > Review + Create > Create > Got to Resource > Verify
 - Step 4
 
