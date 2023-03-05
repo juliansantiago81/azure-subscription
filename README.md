@@ -66,14 +66,14 @@ Verify **Validation passed** and Click **Create**
 </p>
 <p>
 
-Congrats! You have just created a Resourse Group.
+Congrats! 🎉 You have just created a Resourse Group.
 
 <p>
-<img src="https://i.imgur.com/rgUhksZ.png"/>
+<img src="https://i.imgur.com/omtNtxd.png"/>
 </p>
 <p>  
 
-- Next we will be creating a storage accounts. > Create Storage Account > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Storage Lab Name: Unique Name ie (JulianCourseCareersLab01) > Region > Redundancy: GRS (Resarch if needed) > Review + Create > Create > Got to Resource > Verify
+- Next we will be creating a storage account. > Create Storage Account > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Storage Lab Name: Unique Name ie (JulianCourseCareersLab01) > Region > Redundancy: GRS (Resarch if needed) > Review + Create > Create > Got to Resource > Verify
 - Step 4
 
 <p>
