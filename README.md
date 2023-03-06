@@ -166,11 +166,16 @@ Click on your resource group.
 </p>
 <p>  
 
-Click on **Delete resource group** and copy or type in your resource group in the *Enter resource group name to confirm deletion* and click **Delete**
+Click on **Delete resource group** and copy or type in your resource group in the *Enter resource group name to confirm deletion* and click **Delete**. Make sure that when you clean up and delete your resources that they are actually deleted. This may take a few minutes to complete but you can verify by clicking on **Resource groups** and you should see that there is nothing to display.
 
 <p>
 <img src="https://i.imgur.com/yr9mY7K.png"/>
 </p>
 <p> 
+
+<p>
+<img src="https://i.imgur.com/5pN2Idx.png"/>
+</p>
+<p>
   
-Congrats! 🎉 If you made it this far, you have just created your Azure account, learn how to create a resource group, storage account and a container file within it.
+Congrats! 🎉 If you made it this far, you have just created your Azure account, learn how to create a resource group, a storage account with a container file within it. 
