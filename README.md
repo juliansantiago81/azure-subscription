@@ -40,7 +40,6 @@ This is a mental preview of the structure of what we will be creating once every
 
 - Next we will be creating a **Resource Group**. From the **Home** screen you will want to either do a :mag:, look next to **Azure Services**, or under **Navigate**, and click **Resource Groups**.
 
-<p>
 <img src="https://i.imgur.com/SZh3dZH.png"/> 
 </p>
 <p>
@@ -52,7 +51,7 @@ Click **+ Create**
 </p>
 <p> 
 
-For **Subscription**, just leave it alone since we are just creating one in this tuturial. **Resource group** will be named *RG-Lab-01* in this exmaple, but you can name it whatever you like. For **Region**, you can choose the one that you're currently living in. Click **Next**. We don't have to specify **Tags** if you don't want to. Used for organizations to keep track of certian resources. Click **Review + create**
+For **Subscription**, just leave it alone since we are just creating one in this tutorial. **Resource group** will be named *RG-Lab-01* in this exmaple, but you can name it whatever you like. For **Region**, you can choose the one that you're currently living in. Click **Next**. We don't have to specify **Tags** if you don't want to. Used for organizations to keep track of certian resources. Click **Review + create**
   
 <p>
 <img src="https://i.imgur.com/F5xLtEq.png"/>
@@ -73,7 +72,39 @@ Congrats! 🎉 You have just created a Resourse Group.
 </p>
 <p>  
 
-- Next we will be creating a storage account. > Create Storage Account > Subscription: Leave it alone > Resource Group: RG-Lab-01 > Storage Lab Name: Unique Name ie (JulianCourseCareersLab01) > Region > Redundancy: GRS (Resarch if needed) > Review + Create > Create > Got to Resource > Verify
+- Next we will be creating a **Storage Account**. Just like **Resource groups**, from the **Home** screen you will want to either do a :mag:, or look next to **Azure Services** and click **Storage accounts**. 
+
+<p>
+<img src="https://i.imgur.com/Su6reQB.png"/>
+</p>
+<p>
+
+Click **+ Create**
+
+<p>
+<img src="https://i.imgur.com/1CF3GKp.png"/>
+</p>
+<p>
+
+For **Subscription**, we'll just leave it alone. **Resource group** will be named *RG-Lab-01*. **Storage account name** should be a unique name ie (*juliantutoriallab01*). For **Region**, you can choose the one that you're currently living in. For **Redundancy**, we will choose *GRS*, however, you can research and choose what best suits you if needed. Click **Review** and then click **Create**, and then click on **Got to Resource** and verify your created storage account.
+
+<p>
+<img src="https://i.imgur.com/4zGXxFD.png"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/bfirNgp.png"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/zDDtoIL.png"/>
+</p>
+<p> 
+
+Congrats! 🎉 You have just created a Resourse Group.
+
 - Step 4
 
 <p>
