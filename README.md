@@ -9,7 +9,7 @@ In this tutorial, we will be signing up for a free 30 day ($200 credit) subscrip
 <h2>Requirements</h2>
 
 - Computer with Internet Connection
-- Credit Card (Required for $200 free Azure credits for 30 days, then it's a pay as you go subscription. You will only get charged by what you use)
+- Credit Card (Required for $200 free Azure credits for 30 days, then it's a pay as you go subscription. You will only get charged for what you use)
 
 <h2>Operating Systems Used </h2>
 
@@ -89,29 +89,66 @@ Click **+ Create**
 For **Subscription**, we'll just leave it alone. **Resource group** will be named *RG-Lab-01*. **Storage account name** should be a unique name ie (*juliantutoriallab01*). For **Region**, you can choose the one that you're currently living in. For **Redundancy**, we will choose *GRS*, however, you can research and choose what best suits you if needed. Click **Review** and then click **Create**, and then click on **Got to Resource** and verify your created storage account.
 
 <p>
-<img src="https://i.imgur.com/4zGXxFD.png"/>
+<img src="https://i.imgur.com/r15koDd.png"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/bfirNgp.png"/>
+<img src="https://i.imgur.com/Nch9b2G.png"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/zDDtoIL.png"/>
+<img src="https://i.imgur.com/ow9XUs9.png"/>
 </p>
 <p> 
 
-Congrats! 🎉 You have just created a Resourse Group.
+Congrats! 🎉 You have just created a Storage Account.
 
-- Step 4
+- Next we will be creating a **Container**. Within our **Storage Account** that we just finished creating, click on **Containers**.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/plJH8mg.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+  Click on **+ Container**
+  
+<p>
+<img src="https://i.imgur.com/LKmrEoF.png"/>
+</p>
+<p>  
+  
+Give your **New container** a name. For this tutorial we will leave **Public access level** as *Private (no anonymous access)* and then click **Create**.
+
+<p>
+<img src="https://i.imgur.com/RlVQPSS.png"/>
+</p>
+<p>  
+
+Click on your new created container. 
+  
+<p>
+<img src="https://i.imgur.com/rzvgpkE.png"/>
+</p>
+<p>   
+
+Now from your computer, open up Notepad and just create a unique message and save it to your Desktop. 
+  
+<p>
+<img src="https://i.imgur.com/BzbS0NL.png"/>
+</p>
+<p> 
+
+Now within you container, upload your new .txt file.
+
+<p>
+<img src="https://i.imgur.com/lI2j3zv.png"/>
+</p>
+<p>  
+
+Congrats! 🎉 You have just created a **Container** file in your Storage Account.
+
 </p>
 <br />
 
