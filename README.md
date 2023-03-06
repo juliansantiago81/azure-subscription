@@ -152,10 +152,31 @@ Congrats! 🎉 You have just created a **Container** file in your Storage Accoun
 </p>
 <br />
 
+- Now we will be cleaning up our resources so that you don't eat up all your free credits. From the **Home Screen**, click on **Resouce groups** 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F6pji0T.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Click on your resource group.
+  
+<p>
+<img src="https://i.imgur.com/g6vNCf5.png"/>
+</p>
+<p>  
+
+Click on **Delete resource group** and copy or type in your resource group in the *Enter resource group name to confirm deletion* and click **Delete**
+
+<p>
+<img src="https://i.imgur.com/yr9mY7K.png"/>
+</p>
+<p> 
+  
+  
+  
+  
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
