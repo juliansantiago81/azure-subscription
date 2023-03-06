@@ -29,12 +29,12 @@ This is a mental preview of the structure of what we will be creating once every
 - Go to **https://azure.microsoft.com/en-in/free** and click on **Start Free** and create an account. You'll then be recieving a code and have to solve a set of puzzles to verify your account. Next, enter your personal and credit card information to received your $200 free credits and click **Sign up**. You then should see a page that says **You are ready to start with Azure**. Click on **Go to Azure portal**. You're now all set!
 </p>
 <p>
-<img src="https://i.imgur.com/raRVgW1.png"/>
+<img src="https://i.imgur.com/78VTOJX.png"/>
 </p>
 <p>
 
 <p>
-<img src="https://i.imgur.com/cKMK5mv.png"/>
+<img src="https://i.imgur.com/uPXAhmx.png"/>
 </p>
 <p>  
 
