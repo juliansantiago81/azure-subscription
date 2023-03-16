@@ -178,4 +178,4 @@ Click on **Delete resource group** and copy or type in your resource group in th
 </p>
 <p>
   
-Congrats! 🎉 If you made it this far, you have just created your Azure account, learn how to create a resource group, a storage account with a container file within it. 
+Congrats! 🎉 If you made it this far, you have just created your Microsoft Azure account, learned how to create a resource group as well as a storage account with a container file within it, and learned how to clean up your resources once your done using them.
